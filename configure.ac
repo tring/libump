@@ -1,4 +1,4 @@
-AC_PREREQ([2.68])
+AC_PREREQ([2.63])
 AC_INIT([libump], [3.0], [libv@skynet.be])
 AC_CONFIG_SRCDIR([src/ump_platform.h])
 AC_CONFIG_HEADERS([config.h])
