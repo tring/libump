@@ -19,6 +19,7 @@ m4_ifdef([AM_SILENT_RULES], [AM_SILENT_RULES([yes])],
 
 # Checks for programs.
 AC_PROG_CC
+AC_PROG_LIBTOOL
 
 # Checks for libraries.
 
